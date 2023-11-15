@@ -10,10 +10,9 @@ export default function Home() {
   }, []);
   return (
     <main className="">
-      <h1>Cell Models</h1>
+      <h1>Craig Barnett Mitosis Models</h1>
       <p>
       <br/>
-        Craig Barnett<br/>
         <br/>
         Color Key<br/>
 
