@@ -12,28 +12,28 @@ export default function Home() {
     <main className="">
       <h1>Cell Models</h1>
       <div className="model">
-        <h2>Model 1</h2>
-        <GLBViewer url="/Powerful Crift-Turing.glb" />
+        <h2>Interphase</h2>
+        <GLBViewer url="/Interphase.glb" />
       </div>
       <div className="model">
-        <h2>Model 1</h2>
-        <GLBViewer url="/Powerful Crift-Turing.glb" />
+        <h2>Prophase</h2>
+        <GLBViewer url="/Prophase.glb" />
       </div>
       <div className="model">
-        <h2>Model 1</h2>
-        <GLBViewer url="/Powerful Crift-Turing.glb" />
+        <h2>Metaphase</h2>
+        <GLBViewer url="/Metaphase.glb" />
       </div>
       <div className="model">
-        <h2>Model 1</h2>
-        <GLBViewer url="/Powerful Crift-Turing.glb" />
+        <h2>Anaphase</h2>
+        <GLBViewer url="/Anaphase.glb" />
       </div>
       <div className="model">
-        <h2>Model 1</h2>
-        <GLBViewer url="/Powerful Crift-Turing.glb" />
+        <h2>Telophase</h2>
+        <GLBViewer url="/Telophase.glb" />
       </div>
       <div className="model">
-        <h2>Model 1</h2>
-        <GLBViewer url="/Powerful Crift-Turing.glb" />
+        <h2>Cytokinesis</h2>
+        <GLBViewer url="/Cytokinesis.glb" />
       </div>
     </main>
   )
