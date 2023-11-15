@@ -13,6 +13,10 @@ export default function Home() {
       <h1>Cell Models</h1>
       <p>
       <br/>
+        Craig Barnett<br/>
+        <br/>
+        Color Key<br/>
+
         Black = Cell<br/>
         Green = Centrioles<br/>
         Yellow = Nuclear Membrane<br/>
