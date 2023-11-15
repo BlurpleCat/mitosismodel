@@ -11,6 +11,25 @@ export default function Home() {
   return (
     <main className="">
       <h1>Cell Models</h1>
+      <p>
+      <br/>
+        Black = Cell<br/>
+        Green = Centrioles<br/>
+        Yellow = Nuclear Membrane<br/>
+        Dark Blue = Nucleolous<br/>
+        Pink = Chromatin<br/>
+        Light Blue = Spindle Fibers<br/>
+        Red = Chromosomes<br/>
+        Grey = Centromere<br/>
+        Brown = Cleavage Furrow<br/>
+        Purple = Sister Chromatid<br/>
+        <br/>
+        Controls:<br/>
+        Left Click to Rotate<br/>
+        Right Click to Move<br/>
+        Scroll to Zoom<br/>
+        <br/>
+      </p>
       <div className="model">
         <h2>Interphase</h2>
         <GLBViewer url="/Interphase.glb" />
